@@ -1,4 +1,10 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Hi there, I'm Panchakshar 👋</h1>
+</p>
+
+## 🚀 About Me
+
+🎓 I am Panchakshar Srivastava, currently pursuing B.Tech in Computer Science Engineering and will graduate in 2024. I'm very interested in field of Data Science and technologies related to Machine Learning.
 
 <!--
 **Panchakshar/Panchakshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
