@@ -6,7 +6,7 @@
   <h1 align="center"><b>Hi there, I'm Panchakshar 👋</h1>
 </p>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="linkedin.com/in/panchakshar-srivastava">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
