@@ -6,7 +6,17 @@
   <h1 align="center"><b>Hi there, I'm Panchakshar 👋</h1>
 </p>
 
-
+<div id="badges">
+  <a href="linkedin.com/in/panchakshar-srivastava">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:panchakshar29@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/Panchakshar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
 
 ## 🚀 About Me
 
