@@ -7,7 +7,7 @@
 </p>
 
 <div id="badges" align="center">
-  <a href="linkedin.com/in/panchakshar-srivastava">
+  <a href="https://www.linkedin.com/in/panchakshar-srivastava">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:panchakshar29@gmail.com">
