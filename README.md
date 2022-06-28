@@ -21,6 +21,9 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Panchakshar&style=flat-square&color=blue" alt=""/>
 <div>
+  
+---
+  
 ## 🚀 About Me
 
 🎓 I am Panchakshar Srivastava, currently pursuing B.Tech in Computer Science Engineering and will graduate in 2024. I'm very interested in the field of Data Science and technologies related to Machine Learning.
