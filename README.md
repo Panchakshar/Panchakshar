@@ -16,6 +16,9 @@
   <a href="https://github.com/Panchakshar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+  <a href="https://leetcode.com/prachigarg09/](https://leetcode.com/Panchakshar">
+    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+  </a>
 </div>
 
 <div id="badges" align="center">
