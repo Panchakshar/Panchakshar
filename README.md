@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://leetcode.com/Panchakshar/">
-    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
   </a>
 </div>
 
@@ -31,7 +31,10 @@
 
 🎓 I am Panchakshar Srivastava, currently pursuing B.Tech in Computer Science Engineering and will graduate in 2024. I'm very interested in the field of Data Science and technologies related to Machine Learning.
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
+  <div align="center">
 <!--
 **Panchakshar/Panchakshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
