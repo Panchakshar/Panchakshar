@@ -24,34 +24,39 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Panchakshar&style=flat-square&color=blue" alt=""/>
 <div>
-  
+
 ---
-  
+
 ## 🚀 About Me
 
-🎓 I am Panchakshar Srivastava, currently pursuing B.Tech in Computer Science Engineering and will graduate in 2024. I'm very interested in the field of Data Science and technologies related to Machine Learning.
+💼 I'm a Data Engineer (Analyst) at **Polestar Analytics**, working across the Azure data ecosystem — building ETL/ELT pipelines with Azure Synapse Analytics and Azure Data Factory, working with Snowflake and Power BI, and writing SQL to move and model data for enterprise clients. I've delivered client work on EXL and HCL engagements over ~1.8 years, and picked up two Project Delivery Excellence Awards (Q4 2024, Q2 2025) along the way.
+
+🔭 Currently building an industry-level PySpark data pipeline on Databricks (Bronze → Silver → Gold lakehouse architecture) as a portfolio project.
+
+🌱 Leveling up on Microsoft Fabric — prepping for the DP-600 (Fabric Analytics Engineer Associate) certification.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
   <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C " width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python " width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="PySpark" alt="PySpark" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/databricks/databricks-original.svg" title="Databricks" alt="Databricks" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/snowflake/snowflake-original.svg" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"  title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TF" alt="TensorFlow" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="OpenCV" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp; 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp; 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
  </div>
+
+*(Core stack: Azure Synapse Analytics · Azure Data Factory · Snowflake · Power BI · SQL · PySpark · Databricks)*
 
  ---
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panchakshar&show_icons=true&theme=dark)
+![Panchakshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panchakshar&show_icons=true&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Panchakshar&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panchakshar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
