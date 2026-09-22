@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-💼 I'm a Data Engineer (Analyst) at **Polestar Analytics**, working across the Azure data ecosystem — building ETL/ELT pipelines with Azure Synapse Analytics and Azure Data Factory, working with Snowflake and Power BI, and writing SQL to move and model data for enterprise clients. I've delivered client work on EXL and HCL engagements over ~1.8 years, and picked up two Project Delivery Excellence Awards (Q4 2024, Q2 2025) along the way.
+💼 I'm a Data Engineer (Analyst) at **Polestar Analytics**, working across the Azure data ecosystem — building ETL/ELT pipelines with Azure Synapse Analytics and Azure Data Factory, working with Snowflake and Power BI, and writing SQL to move and model data for enterprise clients. I've delivered client work on EXL and HCL engagements over ~2 years, and picked up two Project Delivery Excellence Awards (Q4 2024, Q2 2025) along the way.
 
 🔭 Currently building an industry-level PySpark data pipeline on Databricks (Bronze → Silver → Gold lakehouse architecture) as a portfolio project.
 
@@ -44,7 +44,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="PySpark" alt="PySpark" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/databricks/databricks-original.svg" title="Databricks" alt="Databricks" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/snowflake/snowflake-original.svg" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/snowflake/snowflake-original.svg](https://img.logo.dev/snowflake.com?token=YOUR_API_TOKEN)" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"  title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
